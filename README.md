@@ -32,7 +32,8 @@ Tips: 一部のmodは[Fugue](https://github.com/CleanroomMC/Fugue)を使用す�
 |[Valkyrie](https://www.curseforge.com/projects/874067)|Red Studio|
 |[VintageFix](https://www.curseforge.com/projects/871198)|embeddedt|
 |[WI Zoom](https://www.curseforge.com/projects/349630)|Alexander01998|
-
+|[Dynamic Lights](https://www.curseforge.com/projects/227874)|AtomicStryker|
+  
 ## Incompatible list
 |Name|Author|
 |----|----|
