@@ -37,3 +37,7 @@ Tips: 一部のmodは[Fugue](https://github.com/CleanroomMC/Fugue)を使用す�
 |Name|Author|
 |----|----|
 |[OptiFine](https://optifine.net/)|sp614x|
+|[Replay Mod](https://www.replaymod.com/)|luks_gamer99|
+|[Raw Input](https://www.curseforge.com/projects/749722)|seanld|
+|[Raw Input - Blessed Edition](https://www.curseforge.com/projects/940930)|MARYT Studio|
+
