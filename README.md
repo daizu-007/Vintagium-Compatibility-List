@@ -1,8 +1,7 @@
 # Vintagium-Compatibility-List
 ## About  
 **English**  
-This repository is a list of mods that are compatible or incompatible with (Vintagium)(https://github.com/Asek3/sodium-1.12) and CleanroomLoader, which is used to load it. Anyone can create an [issue](https://github.com/daizu-007/Vintagium-Compatibility-List/issues) to propose adding any mod to the list.  
-Tips: Some mods can be used together with these mods by using [Fugue](https://github.com/CleanroomMC/Fugue).  
+This repository is the list of compatibility / incompatibility mods with [Vintagium](https://github.com/Asek3/sodium-1.12). Vintagium requires [CleanroomLoader](https://github.com/CleanroomMC/CleanroomMMC), so it is also a compatibility / incompatibility list with CleanroomLoader. If you propose adding any mod to the list, please let me known by creating an [issue](https://github.com/daizu-007/Vintagium-Compatibility-List/issues).
   
 **日本語**  
 このリポジトリは[Vintagium](https://github.com/Asek3/sodium-1.12)及びそれを読み込むための[CleanroomLoader](https://github.com/CleanroomMC/CleanroomMMC)との互換/非互換modのリストです。
