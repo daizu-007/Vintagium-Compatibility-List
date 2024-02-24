@@ -32,6 +32,12 @@ Tips: 一部のmodは[Fugue](https://github.com/CleanroomMC/Fugue)を使用す�
 |[VintageFix](https://www.curseforge.com/projects/871198)|embeddedt|
 |[WI Zoom](https://www.curseforge.com/projects/349630)|Alexander01998|
 |[Dynamic Lights](https://www.curseforge.com/projects/227874)|AtomicStryker|
+|[Fixeroo](https://www.curseforge.com/minecraft/mc-mods/xp-orb-clump)|metallicafan011|
+|[Dynamic View](https://www.curseforge.com/minecraft/mc-mods/dynamic-view)|someaddon|
+|[NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)|BlayTheNinth|
+|[Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight)|someaddon|
+|[IC2classic](https://www.curseforge.com/minecraft/mc-mods/ic2-classic)|sfPlayer1|
+|[Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn)|modmuss50|
   
 ## Incompatible list
 |Name|Author|
@@ -41,3 +47,10 @@ Tips: 一部のmodは[Fugue](https://github.com/CleanroomMC/Fugue)を使用す�
 |[Raw Input](https://www.curseforge.com/projects/749722)|seanld|
 |[Raw Input - Blessed Edition](https://www.curseforge.com/projects/940930)|MARYT Studio|
 |[Zume](https://www.curseforge.com/minecraft/mc-mods/zume)|Nolij|
+|[Nothirium](https://www.curseforge.com/minecraft/mc-mods/nothirium)|meldexun|
+|[Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)|masady|
+|[Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica)|masady|
+|[IC2Cextra](https://www.curseforge.com/minecraft/mc-mods/ic2c-extras)|trinsdar|
+|[Industrial Craft](https://www.curseforge.com/minecraft/mc-mods/industrial-craft)|sfPlayer1|
+
+
