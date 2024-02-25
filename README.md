@@ -29,6 +29,7 @@ Tips: 一部のmodは[Fugue](https://github.com/CleanroomMC/Fugue)を使用す�
 |[Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica)|Can be loaded, but crashes when trying to use it|
 |[IC2Cextra](https://www.curseforge.com/minecraft/mc-mods/ic2c-extras)||
 |[Industrial Craft](https://www.curseforge.com/minecraft/mc-mods/industrial-craft)||
+|[Hardcore Darkness](https://www.curseforge.com/minecraft/mc-mods/hardcore-darkness)|Crash when loading world|
   
 ## Compatibility list
 |Name|Description|
