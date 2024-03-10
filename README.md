@@ -21,8 +21,6 @@ Tips: 一部のmodは[Fugue](https://github.com/CleanroomMC/Fugue)を使用す�
 |----|----|
 |[OptiFine](https://optifine.net/)||
 |[Replay Mod](https://www.replaymod.com/)||
-|[Raw Input](https://www.curseforge.com/projects/749722)|I can read it, but I can't move my gaze.|
-|[Raw Input - Blessed Edition](https://www.curseforge.com/projects/940930)|I can read it, but I can't move my gaze.|
 |[Zume](https://www.curseforge.com/minecraft/mc-mods/zume)|Can read, but crashes when trying to zoom|
 |[Nothirium](https://www.curseforge.com/minecraft/mc-mods/nothirium)||
 |[Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)||
