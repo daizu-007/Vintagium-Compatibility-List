@@ -31,6 +31,7 @@ Tips: 一部のmodは[Fugue](https://github.com/CleanroomMC/Fugue)を使用す�
 |Name|Description|
 |----|----|
 |[Hardcore Darkness](https://www.curseforge.com/minecraft/mc-mods/hardcore-darkness)|Crash when loading world|
+|[Vintage GregTech](https://www.curseforge.com/minecraft/mc-mods/vintage-gregtech)|Crash while viewing creative tabs|
   
 ## Compatibility list
 |Name|Description|
