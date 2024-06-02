@@ -20,11 +20,8 @@ Tips: 一部のmodは[Fugue](https://github.com/CleanroomMC/Fugue)を使用す�
 ## Incompatible list with CleanroomLoader
 |Name|Description|
 |----|----|
-|[RenderLib](https://www.curseforge.com/minecraft/mc-mods/renderlib)|Cannot start game|
-|[Nothirium](https://www.curseforge.com/minecraft/mc-mods/nothirium)|RenderLib is prerequisite|
 |[Tweakeroo](https://masa.dy.fi/mcmods/client_mods/)|Cannot start game|
 |[Litematica](https://masa.dy.fi/mcmods/client_mods/)|Cannot start game|
-|[Replay Mod](https://www.replaymod.com/)|Mod does not load on startup and crashes when opening world|
 |[ConfigAnytime](https://www.curseforge.com/minecraft/mc-mods/configanytime)|Included in CleanroomLoader|
 |[MixinBooter](https://www.curseforge.com/minecraft/mc-mods/mixin-booter)|Included in CleanroomLoader|
   
@@ -33,6 +30,9 @@ Tips: 一部のmodは[Fugue](https://github.com/CleanroomMC/Fugue)を使用す�
 |----|----|
 |[Hardcore Darkness](https://www.curseforge.com/minecraft/mc-mods/hardcore-darkness)|Crash when loading world|
 |[Vintage GregTech](https://www.curseforge.com/minecraft/mc-mods/vintage-gregtech)|Crash while viewing creative tabs|
+|[Nothirium](https://www.curseforge.com/minecraft/mc-mods/nothirium)|Cannot start game. Feature conflicts with Vintagium.|
+|[IC2Cextra](https://www.curseforge.com/minecraft/mc-mods/ic2c-extras)|Crash while viewing creative tabs|
+|[OptiFine](https://optifine.net/)|Not crashed but not loaded (intentional)|
   
 ## Compatibility list
 |Name|Description|
@@ -55,18 +55,17 @@ Tips: 一部のmodは[Fugue](https://github.com/CleanroomMC/Fugue)を使用す�
 |[NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)||
 |[Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight)||
 |[IC2classic](https://www.curseforge.com/minecraft/mc-mods/ic2-classic)||
-|[IC2Cextra](https://www.curseforge.com/minecraft/mc-mods/ic2c-extras)||
 |[Industrial Craft](https://www.curseforge.com/minecraft/mc-mods/industrial-craft)||
 |[Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn)||
 |[Zume](https://www.curseforge.com/minecraft/mc-mods/zume)||
-|[OptiFine](https://optifine.net/)|??????????????????????????????????|
+|[RenderLib](https://www.curseforge.com/minecraft/mc-mods/renderlib)||
+|[Replay Mod](https://www.replaymod.com/)||
   
 ## Verification environment
-2024/03/16
+2024/06/03
 - Minecraft: 1.12.2
-- CleanroomLoader: 15.24.0.3032
-- Vintagium: 0.1 (https://github.com/Asek3/sodium-1.12/actions/runs/8217114565)
-- Fufue: 0.10.1: More default config
-  
+- CleanroomLoader: 0.2.1-alpha+build.10.run.616 (Custom) (https://github.com/CleanroomMC/CleanroomMMC/actions/runs/9189599154)
+- Vintagium: 0.1 (https://github.com/Asek3/sodium-1.12/actions/runs/8575348694)
+- Fugue: 0.14.12 (https://github.com/CleanroomMC/Fugue/releases/tag/0.14.12)
 
 
