@@ -18,48 +18,48 @@ Tips: 一部のmodは[Fugue](https://github.com/CleanroomMC/Fugue)を使用す�
 提示: 一些 mod 可以通過使用 [Fugue](https://github.com/CleanroomMC/Fugue) 與這些 mod 同時使用。  
   
 ## Incompatible list with CleanroomLoader
-|Name|Description|
-|----|----|
-|[Tweakeroo](https://masa.dy.fi/mcmods/client_mods/)|Cannot start game|
-|[Litematica](https://masa.dy.fi/mcmods/client_mods/)|Cannot start game|
-|[ConfigAnytime](https://www.curseforge.com/minecraft/mc-mods/configanytime)|Included in CleanroomLoader|
-|[MixinBooter](https://www.curseforge.com/minecraft/mc-mods/mixin-booter)|Included in CleanroomLoader|
+|Name|Description|LastChecked|
+|----|----|----|
+|[Tweakeroo](https://masa.dy.fi/mcmods/client_mods/)|Cannot start game|2024/06/03|
+|[Litematica](https://masa.dy.fi/mcmods/client_mods/)|Cannot start game|2024/06/03|
+|[ConfigAnytime](https://www.curseforge.com/minecraft/mc-mods/configanytime)|Included in CleanroomLoader|2024/06/03|
+|[MixinBooter](https://www.curseforge.com/minecraft/mc-mods/mixin-booter)|Included in CleanroomLoader|2024/06/03|
   
 ## Incompatible list with vintagium
-|Name|Description|
-|----|----|
-|[Hardcore Darkness](https://www.curseforge.com/minecraft/mc-mods/hardcore-darkness)|Crash when loading world|
-|[Vintage GregTech](https://www.curseforge.com/minecraft/mc-mods/vintage-gregtech)|Crash while viewing creative tabs|
-|[Nothirium](https://www.curseforge.com/minecraft/mc-mods/nothirium)|Cannot start game. Feature conflicts with Vintagium.|
-|[IC2Cextra](https://www.curseforge.com/minecraft/mc-mods/ic2c-extras)|Crash while viewing creative tabs|
-|[OptiFine](https://optifine.net/)|Not crashed but not loaded (intentional)|
+|Name|Description|LastChecked|
+|----|----|----|
+|[Hardcore Darkness](https://www.curseforge.com/minecraft/mc-mods/hardcore-darkness)|Crash when loading world|2024/06/03|
+|[Vintage GregTech](https://www.curseforge.com/minecraft/mc-mods/vintage-gregtech)|Crash while viewing creative tabs|2024/06/03|
+|[Nothirium](https://www.curseforge.com/minecraft/mc-mods/nothirium)|Cannot start game. Feature conflicts with Vintagium.|2024/06/03|
+|[IC2Cextra](https://www.curseforge.com/minecraft/mc-mods/ic2c-extras)|Crash while viewing creative tabs|2024/06/03|
+|[OptiFine](https://optifine.net/)|Not crashed but not loaded (intentional)|2024/06/03|
   
 ## Compatibility list
-|Name|Description|
-|----|----|
-|[Alfheim](https://www.curseforge.com/minecraft/mc-mods/alfheim-lighting-engine)||
-|[Better Biome Blend](https://github.com/FionaTheMortal/better-biome-blend)||
-|[BetterFps](https://www.curseforge.com/minecraft/mc-mods/betterfps)||
-|[Chunk Pregenerator](https://www.curseforge.com/projects/267193)||
-|[Clumps](https://www.curseforge.com/projects/256717)||
-|[LoliASM](https://www.curseforge.com/projects/460609)||
-|[Multithreaded Noise](https://www.curseforge.com/minecraft/mc-mods/multithreaded-noise)||
-|[performant Mod](https://www.curseforge.com/projects/354143)||
-|[Universal Tweaks](https://www.curseforge.com/projects/705000)||
-|[Valkyrie](https://www.curseforge.com/projects/874067)||
-|[VintageFix](https://www.curseforge.com/projects/871198)||
-|[WI Zoom](https://www.curseforge.com/projects/349630)||
-|[Dynamic Lights](https://www.curseforge.com/projects/227874)||
-|[Fixeroo](https://www.curseforge.com/minecraft/mc-mods/xp-orb-clump)||
-|[Dynamic View](https://www.curseforge.com/minecraft/mc-mods/dynamic-view)||
-|[NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)||
-|[Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight)||
-|[IC2classic](https://www.curseforge.com/minecraft/mc-mods/ic2-classic)||
-|[Industrial Craft](https://www.curseforge.com/minecraft/mc-mods/industrial-craft)||
-|[Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn)||
-|[Zume](https://www.curseforge.com/minecraft/mc-mods/zume)||
-|[RenderLib](https://www.curseforge.com/minecraft/mc-mods/renderlib)||
-|[Replay Mod](https://www.replaymod.com/)||
+|Name|Description|LastChecked|
+|----|----|----|
+|[Alfheim](https://www.curseforge.com/minecraft/mc-mods/alfheim-lighting-engine)||2024/06/03|
+|[Better Biome Blend](https://github.com/FionaTheMortal/better-biome-blend)||2024/06/03|
+|[BetterFps](https://www.curseforge.com/minecraft/mc-mods/betterfps)||2024/06/03|
+|[Chunk Pregenerator](https://www.curseforge.com/projects/267193)||2024/06/03|
+|[Clumps](https://www.curseforge.com/projects/256717)||2024/06/03|
+|[LoliASM](https://www.curseforge.com/projects/460609)||2024/06/03|
+|[Multithreaded Noise](https://www.curseforge.com/minecraft/mc-mods/multithreaded-noise)||2024/06/03|
+|[performant Mod](https://www.curseforge.com/projects/354143)||2024/06/03|
+|[Universal Tweaks](https://www.curseforge.com/projects/705000)||2024/06/03|
+|[Valkyrie](https://www.curseforge.com/projects/874067)||2024/06/03|
+|[VintageFix](https://www.curseforge.com/projects/871198)||2024/06/03|
+|[WI Zoom](https://www.curseforge.com/projects/349630)||2024/06/03|
+|[Dynamic Lights](https://www.curseforge.com/projects/227874)||2024/06/03|
+|[Fixeroo](https://www.curseforge.com/minecraft/mc-mods/xp-orb-clump)||2024/06/03|
+|[Dynamic View](https://www.curseforge.com/minecraft/mc-mods/dynamic-view)||2024/06/03|
+|[NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)||2024/06/03|
+|[Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight)||2024/06/03|
+|[IC2classic](https://www.curseforge.com/minecraft/mc-mods/ic2-classic)||2024/06/03|
+|[Industrial Craft](https://www.curseforge.com/minecraft/mc-mods/industrial-craft)||2024/06/03|
+|[Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn)||2024/06/03|
+|[Zume](https://www.curseforge.com/minecraft/mc-mods/zume)||2024/06/03|
+|[RenderLib](https://www.curseforge.com/minecraft/mc-mods/renderlib)||2024/06/03|
+|[Replay Mod](https://www.replaymod.com/)||2024/06/03|
   
 ## Verification environment
 2024/06/03
