@@ -33,6 +33,7 @@ Tips: 一部のmodは[Fugue](https://github.com/CleanroomMC/Fugue)を使用す�
 |[Nothirium](https://www.curseforge.com/minecraft/mc-mods/nothirium)|Cannot start game. Feature conflicts with Vintagium.|2024/06/03|
 |[IC2Cextra](https://www.curseforge.com/minecraft/mc-mods/ic2c-extras)|Crash while viewing creative tabs|2024/06/03|
 |[OptiFine](https://optifine.net/)|Not crashed but not loaded (intentional)|2024/06/03|
+|[RLFoliage](https://www.curseforge.com/minecraft/mc-mods/rlfoliage)|Cannot start game|2025/01/13|
   
 ## Compatibility list
 |Name|Description|LastChecked|
@@ -67,5 +68,10 @@ Tips: 一部のmodは[Fugue](https://github.com/CleanroomMC/Fugue)を使用す�
 - CleanroomLoader: 0.2.1-alpha+build.10.run.616 (Custom) (https://github.com/CleanroomMC/CleanroomMMC/actions/runs/9189599154)
 - Vintagium: 0.1 (https://github.com/Asek3/sodium-1.12/actions/runs/8575348694)
 - Fugue: 0.14.12 (https://github.com/CleanroomMC/Fugue/releases/tag/0.14.12)
+2025/01/13
+- Minecraft: 1.12.2
+- CleanroomLoader: 0.2.4-alpha+build.45.run.859 (Custom) (https://github.com/CleanroomMC/CleanroomMMC/actions/runs/12630610331)
+- Vintagium: 0.1 (https://github.com/Asek3/sodium-1.12/actions/runs/11309063708)
+- Fugue: 0.17.5 (https://www.curseforge.com/minecraft/mc-mods/fugue/files/6007189)
 
 
