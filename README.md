@@ -70,5 +70,9 @@ Tips: 一部のmodは[Fugue](https://github.com/CleanroomMC/Fugue)を使用す�
 - CleanroomLoader: 0.2.4-alpha+build.45.run.859 (Custom) (https://github.com/CleanroomMC/CleanroomMMC/actions/runs/12630610331)
 - Vintagium: 0.1 (https://github.com/Asek3/sodium-1.12/actions/runs/11309063708)
 - Fugue: 0.17.5 (https://www.curseforge.com/minecraft/mc-mods/fugue/files/6007189)
-
+2025/04/10
+- Minecraft: 1.12.2
+- CleanroomLoader: 0.3.0-alpha (Custom) (https://github.com/CleanroomMC/Cleanroom/releases/tag/0.3.0-alpha)
+- Vintagium: 0.1 (https://github.com/Asek3/sodium-1.12/actions/runs/11309063708)
+- Fugue: 0.18.4 (https://www.curseforge.com/minecraft/mc-mods/fugue/files/6382947)
 
