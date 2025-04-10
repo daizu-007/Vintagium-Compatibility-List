@@ -20,11 +20,8 @@ Tips: 一部のmodは[Fugue](https://github.com/CleanroomMC/Fugue)を使用す�
 ## Incompatible list with CleanroomLoader
 |Name|Description|LastChecked|
 |----|----|----|
-|[Tweakeroo](https://masa.dy.fi/mcmods/client_mods/)|Cannot start game|2024/06/03|
-|[Litematica](https://masa.dy.fi/mcmods/client_mods/)|Cannot start game|2024/06/03|
-|[ConfigAnytime](https://www.curseforge.com/minecraft/mc-mods/configanytime)|Included in CleanroomLoader|2024/06/03|
-|[MixinBooter](https://www.curseforge.com/minecraft/mc-mods/mixin-booter)|Included in CleanroomLoader|2024/06/03|
-  
+|[Liteloader](https://www.liteloader.com)|Crash when loading world|2025/04/10|
+
 ## Incompatible list with vintagium
 |Name|Description|LastChecked|
 |----|----|----|
@@ -33,7 +30,7 @@ Tips: 一部のmodは[Fugue](https://github.com/CleanroomMC/Fugue)を使用す�
 |[Nothirium](https://www.curseforge.com/minecraft/mc-mods/nothirium)|Cannot start game. Feature conflicts with Vintagium.|2024/06/03|
 |[IC2Cextra](https://www.curseforge.com/minecraft/mc-mods/ic2c-extras)|Crash while viewing creative tabs|2024/06/03|
 |[OptiFine](https://optifine.net/)|Not crashed but not loaded (intentional)|2024/06/03|
-|[RLFoliage](https://www.curseforge.com/minecraft/mc-mods/rlfoliage)|Cannot start game|2025/01/13|
+|[RLFoliage](https://www.curseforge.com/minecraft/mc-mods/rlfoliage)|Cannot start game Pre-Fork version is the same|2025/01/13|
   
 ## Compatibility list
 |Name|Description|LastChecked|
