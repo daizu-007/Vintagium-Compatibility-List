@@ -22,6 +22,7 @@ Tips: 一部のmodは[Fugue](https://github.com/CleanroomMC/Fugue)を使用す�
 |----|----|----|
 |[Liteloader](https://www.liteloader.com)|Crash when loading world|2025/04/10|
 |[RealTrainMod](https://www.curseforge.com/minecraft/mc-mods/realtrainmod)|Cannot start game. Likely caused by the prerequisite mod, [NGTLib](https://www.curseforge.com/minecraft/mc-mods/ngtlib).|2025/04/27|
+|[FarPlaneTwo](https://www.curseforge.com/minecraft/mc-mods/farplanetwo)|Cannot start game.|2025/04/27|
 
 ## Incompatible list with vintagium
 |Name|Description|LastChecked|
@@ -32,6 +33,7 @@ Tips: 一部のmodは[Fugue](https://github.com/CleanroomMC/Fugue)を使用す�
 |[IC2Cextra](https://www.curseforge.com/minecraft/mc-mods/ic2c-extras)|Crash while viewing creative tabs|2024/06/03|
 |[OptiFine](https://optifine.net/)|Not crashed but not loaded (intentional)|2024/06/03|
 |[RLFoliage](https://www.curseforge.com/minecraft/mc-mods/rlfoliage)|Cannot start game Pre-Fork version is the same|2025/01/13|
+|[FarPlaneTwo](https://www.curseforge.com/minecraft/mc-mods/farplanetwo)|Cannot start game.|2025/04/27|
   
 ## Compatibility list
 |Name|Description|LastChecked|
@@ -82,5 +84,5 @@ Tips: 一部のmodは[Fugue](https://github.com/CleanroomMC/Fugue)を使用す�
 2025/04/27
 - Minecraft: 1.12.2
 - CleanroomLoader: 0.3.0-alpha+build.48.run.986 (Custom) (https://github.com/CleanroomMC/CleanroomMMC/actions/runs/14640565095)
-- Vintagium: None
+- Vintagium: 0.1 (https://github.com/Asek3/sodium-1.12/actions/runs/11309063708)
 - Fugue: 0.18.5 (https://www.curseforge.com/minecraft/mc-mods/fugue/files/6424527)
