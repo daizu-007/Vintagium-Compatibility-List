@@ -34,6 +34,11 @@ Tips: 一部のmodは[Fugue](https://github.com/CleanroomMC/Fugue)を使用す�
 |[OptiFine](https://optifine.net/)|Not crashed but not loaded (intentional)|2024/06/03|
 |[RLFoliage](https://www.curseforge.com/minecraft/mc-mods/rlfoliage)|Cannot start game Pre-Fork version is the same|2025/01/13|
 |[FarPlaneTwo](https://www.curseforge.com/minecraft/mc-mods/farplanetwo)|Cannot start game.|2025/04/27|
+|[ArchitectureCraft](https://www.curseforge.com/minecraft/mc-mods/architecturecraft-tridev)|Texture is broken|2025/04/27|
+|[LittleTiles](https://www.curseforge.com/minecraft/mc-mods/littletiles)|Texture becomes transparent|2025/04/27|
+|[MultiBlock'd](https://www.curseforge.com/minecraft/mc-mods/multiblocked)|Texture becomes transparent|2025/04/27|
+|[Stargate Network](https://www.curseforge.com/minecraft/mc-mods/stargate-network)|Crash when placing mod blocks|2025/04/27|
+|[Valkyrien Skies](https://www.curseforge.com/minecraft/mc-mods/valkyrien-skies)|Cannot start game.|2025/04/27|
   
 ## Compatibility list
 |Name|Description|LastChecked|
