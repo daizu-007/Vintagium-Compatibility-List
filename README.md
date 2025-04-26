@@ -20,11 +20,8 @@ Tips: 一部のmodは[Fugue](https://github.com/CleanroomMC/Fugue)を使用す�
 ## Incompatible list with CleanroomLoader
 |Name|Description|LastChecked|
 |----|----|----|
-|[Tweakeroo](https://masa.dy.fi/mcmods/client_mods/)|Cannot start game|2024/06/03|
-|[Litematica](https://masa.dy.fi/mcmods/client_mods/)|Cannot start game|2024/06/03|
-|[ConfigAnytime](https://www.curseforge.com/minecraft/mc-mods/configanytime)|Included in CleanroomLoader|2024/06/03|
-|[MixinBooter](https://www.curseforge.com/minecraft/mc-mods/mixin-booter)|Included in CleanroomLoader|2024/06/03|
-  
+|[Liteloader](https://www.liteloader.com)|Crash when loading world|2025/04/10|
+
 ## Incompatible list with vintagium
 |Name|Description|LastChecked|
 |----|----|----|
@@ -33,7 +30,7 @@ Tips: 一部のmodは[Fugue](https://github.com/CleanroomMC/Fugue)を使用す�
 |[Nothirium](https://www.curseforge.com/minecraft/mc-mods/nothirium)|Cannot start game. Feature conflicts with Vintagium.|2024/06/03|
 |[IC2Cextra](https://www.curseforge.com/minecraft/mc-mods/ic2c-extras)|Crash while viewing creative tabs|2024/06/03|
 |[OptiFine](https://optifine.net/)|Not crashed but not loaded (intentional)|2024/06/03|
-|[RLFoliage](https://www.curseforge.com/minecraft/mc-mods/rlfoliage)|Cannot start game|2025/01/13|
+|[RLFoliage](https://www.curseforge.com/minecraft/mc-mods/rlfoliage)|Cannot start game Pre-Fork version is the same|2025/01/13|
   
 ## Compatibility list
 |Name|Description|LastChecked|
@@ -73,5 +70,9 @@ Tips: 一部のmodは[Fugue](https://github.com/CleanroomMC/Fugue)を使用す�
 - CleanroomLoader: 0.2.4-alpha+build.45.run.859 (Custom) (https://github.com/CleanroomMC/CleanroomMMC/actions/runs/12630610331)
 - Vintagium: 0.1 (https://github.com/Asek3/sodium-1.12/actions/runs/11309063708)
 - Fugue: 0.17.5 (https://www.curseforge.com/minecraft/mc-mods/fugue/files/6007189)
-
+2025/04/10
+- Minecraft: 1.12.2
+- CleanroomLoader: 0.3.0-alpha (Custom) (https://github.com/CleanroomMC/Cleanroom/releases/tag/0.3.0-alpha)
+- Vintagium: 0.1 (https://github.com/Asek3/sodium-1.12/actions/runs/11309063708)
+- Fugue: 0.18.4 (https://www.curseforge.com/minecraft/mc-mods/fugue/files/6382947)
 
